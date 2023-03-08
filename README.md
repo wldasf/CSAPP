@@ -1,2 +1,2 @@
 # CSAPP
-Personal notes from the Computer Systems: A Programmer's Perspective
+Personal notes from Computer Systems: A Programmer's Perspective
